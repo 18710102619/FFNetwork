@@ -1,0 +1,16 @@
+PODS:
+  - FFNetwork (0.1.0)
+
+DEPENDENCIES:
+  - FFNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  FFNetwork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFNetwork: 463129828567584df3f6eefb615c2aa4da286fa0
+
+PODFILE CHECKSUM: 538e3cfa7425a1ccc3e32cb6794ed4f76f64e5dd
+
+COCOAPODS: 1.2.1
